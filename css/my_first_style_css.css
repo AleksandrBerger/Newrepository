@@ -1,0 +1,12 @@
+h1 {
+font-size: 40px;
+color: rebeccapurple;
+box-sizing: border-box;
+border-color: red;
+}
+
+<selector> {
+    font-size: 40px;
+    color: darkgreen;
+    display: inline-block;
+}
