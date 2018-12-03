@@ -22,6 +22,10 @@ html {
 
 body {
   margin: 0;
+  /*background-color: #05ffb0;*/
+    background-image: url("sablon-logotipa-beard-man_63980-original.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 /**
