@@ -20,14 +20,6 @@ html {
  * Remove the margin in all browsers.
  */
 
-body {
-  margin: 0;
-  /*background-color: #05ffb0;*/
-    background-image: url("sablon-logotipa-beard-man_63980-original.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-
 /**
  * Render the `main` element consistently in IE.
  */
@@ -85,6 +77,7 @@ a {
  * 1. Remove the bottom border in Chrome 57-
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
+
 
 abbr[title] {
   border-bottom: none; /* 1 */
